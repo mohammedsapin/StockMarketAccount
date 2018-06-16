@@ -5,6 +5,7 @@ Please select an account to access
 - Stock Portfolio Account
 - Bank Account
 - Exit
+
 Stock account:
 - Display current price for a stock symbol
 - Buy stock
@@ -12,6 +13,7 @@ Stock account:
 - Display current portfolio
 - Display transactions history
 - Return to main menu
+
 Bank account:
 - Display current cash balance
 - Deposit to account
