@@ -166,7 +166,7 @@ void bankMenu(StockAccount &account, istream &input, fstream &bankTransaction) {
 				} else
 					amount = atof(data.c_str());
 				if (amount <= 0)
-					cout << "\n\t Enter a positive value for amount! " << endl;
+					cout << "\n\t Enter a positive value for the amount! " << endl;
 				else
 					break;
 			} while (true);
